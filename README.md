@@ -1,2 +1,2 @@
-# fish_dracula
+# dracula_fish
 fish内置的Dracula主题
